@@ -11,4 +11,5 @@ My homepage is: <https://wentaoli.xyz>
 - 🤔 I’m looking for help with the "physics of neural networks", especially how Computer Science people approach this problem.
 - 📫 How to reach me: <al3c.wentao.lee@gmail.com>
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: my favourite shoe-gazing band is [Yukiguni](https://ykq2.jp)
+- ⚡ Fun fact: my favourite shoe-gazing band is [Yukiguni](https://ykq2.jp). Another one: I use neovim but
+  my favourite color theme is ef-cyprus from emacs.
