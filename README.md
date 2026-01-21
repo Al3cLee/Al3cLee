@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi! Wentao Li here.
 
-<!--
-**Al3cLee/Al3cLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I study physics; to be specific,
+I am interested in novel quantum many-body phenomena (e.g. anyons)
+and non-equilibrium processes (which might help understand quantum thermalization).
 
-Here are some ideas to get you started:
+My homepage is: <https://wentaoli.xyz>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on mixed-state orders and quantum error correction.
+- 🌱 I’m currently learning [symbolica](https://symbolica.io), a symbolic computation system.
+- 🤔 I’m looking for help with the "physics of neural networks", especially how Computer Science people approach this problem.
+- 📫 How to reach me: <al3c.wentao.lee@gmail.com>
+- 😄 Pronouns: he / him
+- ⚡ Fun fact: my favourite shoe-gazing band is [Yukiguni](https://ykq2.jp)
